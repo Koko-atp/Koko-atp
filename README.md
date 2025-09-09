@@ -1,5 +1,5 @@
-Hi 👋 My name is Oatthaphon Hongthaisong
-========================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oatthaphon Hongthaisong
+================================================================================================================================================
 
 \- just callme koko
 -------------------
@@ -20,12 +20,8 @@ undergraduate software engineer student at phayao university
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-stats.vercel.app/api?username=Koko-atp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Koko-atp's GitHub stats" /></a>
+<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-stats.vercel.app/api?username=Koko-atp&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=6366f1&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Koko-atp's GitHub stats" /></a>
 
-<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Koko-atp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Koko-atp&stroke=6366f1&background=000000&ring=10b981&fire=10b981&currStreakNum=6366f1&currStreakLabel=10b981&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="https://github.com/Koko-atp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koko-atp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Koko-atp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koko-atp&langs_count=10&title_color=10b981&text_color=6366f1&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
