@@ -23,6 +23,5 @@ undergraduate software engineer student at phayao university
 
 <a href="http://www.github.com/Koko-atp"><img src="https://github-readme-stats.vercel.app/api?username=Koko-atp&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Koko-atp's GitHub stats" /></a>
 
-<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Koko-atp&stroke=ec4899&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ec4899&currStreakLabel=22c55e&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
 <a href="https://github.com/Koko-atp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koko-atp&langs_count=10&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
