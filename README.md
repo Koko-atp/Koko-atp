@@ -16,9 +16,3 @@ undergraduate software engineer student at phayao university
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Koko-atp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Koko-atp"><img src="https://github-readme-stats.vercel.app/api?username=Koko-atp&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Koko-atp's GitHub stats" /></a>
